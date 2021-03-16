@@ -1,8 +1,9 @@
-# Livro de Receitas :coffee:
-
-
-
-Ola !!! Bem vindo ao meu livro de receitas 
-
-- Strogonoff de Frango
-- Pavê
+>>>>>>> #Livro de Receitas :coffee:
+>>>>>>>
+>>>>>>> 
+>>>>>>>
+>>>>>>> Ola !!! Bem vindo ao meu livro de receitas 
+>>>>>>>
+>>>>>>> - Strogonoff de Frango
+>>>>>>> - Pavê
+>>>>>>> - bolo de cenoura
