@@ -1,4 +1,4 @@
-# Livri de Receitas :coffee:
+# Livro de Receitas :coffee:
 
 
 
